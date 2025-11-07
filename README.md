@@ -31,6 +31,8 @@ O objetivo deste exercício é treinar onde e como separar comportamentos com a 
    node index.js
    ```
 
+   O programa irá demonstrar o polimorfismo com interfaces, mostrando diferentes animais fazendo sons. Em seguida, solicitará que você digite o nome de um animal (cachorro, gato ou vaca) para criar uma instância baseada na sua entrada.
+
 ## Estrutura do Projeto
 
 - `RI7.pdf`: Documento com as instruções do exercício.
