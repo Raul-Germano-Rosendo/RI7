@@ -1,0 +1,12 @@
+{
+  "name": "ri7",
+  "version": "1.0.0",
+  "description": "Exercício para treinar aplicação de interfaces e polimorfismo em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["polimorfismo", "interfaces", "nodejs", "readline"],
+  "author": "Raul Germano Rosendo",
+  "license": "MIT"
+}
