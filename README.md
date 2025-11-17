@@ -41,7 +41,3 @@ O objetivo deste exercício é treinar onde e como separar comportamentos com a 
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Faça um fork do projeto, crie uma branch para suas alterações e envie um pull request.
-
-## Licença
-
-Este projeto é para fins educacionais.
